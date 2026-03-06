@@ -1,9 +1,11 @@
 # GitHub Profile README for Alton Lee Wei Bin (creator35lwb-web)
 
 <div align="center">
-  <a href="https://github.com/creator35lwb-web/VerifiMind-PEAS"><img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/VerifiMind-PEAS.jpg" alt="VerifiMind-PEAS" height="120"/></a>
+  <a href="https://github.com/creator35lwb-web/creator35lwb-web/releases/download/v1.0-assets/grok_video_2026_YSenseAI_Drop.mp4" title="Watch YSenseAI™ Brand Animation">
+    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/YSenseAI-Logo.jpg" alt="YSenseAI™" height="130"/>
+  </a>
   <h1>
-    <b>Alton Lee Wei Bin | 慧觉</b>
+    <b>Alton Lee Wei Bin | YSenseAI™ | 慧觉™</b>
   </h1>
   <h3>
     Solo AI Builder & Open-Source Founder | Malaysia
@@ -31,7 +33,7 @@ This is a cohesive, 10-repo ecosystem built on a foundation of ethical AI princi
 
 | Project | Role in Ecosystem | Status |
 | :--- | :--- | :--- |
-| **VerifiMind-PEAS** | Core Validation Engine & Methodology | v0.5.0 Foundation |
+| **VerifiMind™ PEAS** | Core Validation Engine & Methodology | v0.5.0 Foundation |
 | **YSense-AI-Attribution** | Defensive Publication & Prior Art | Published |
 | **GodelAI** | C-S-P Framework for AI Alignment | v2.0.0 (Zenodo) |
 | **LegacyEvolve** | Legacy System Evolution Protocol | Active |
@@ -39,7 +41,7 @@ This is a cohesive, 10-repo ecosystem built on a foundation of ethical AI princi
 | **AgentOS** | AGI Trust Stack Thesis | Architecture |
 | **MarketPulse** | Applied Case Study (Stock Sentiment) | Active |
 | **RoleNoteAI** | Smart AI Note Planner (Kotlin/Android) | Active |
-| **verifimind-mcp-server** | MCP Server for Multi-Model Validation | Self-Hosted |
+| **VerifiMind™ MCP Server** | MCP Server for Multi-Model Validation | Self-Hosted |
 | **NaturalApp** | Meta-Application Platform for Android | Concept |
 
 
@@ -60,12 +62,11 @@ This is a cohesive, 10-repo ecosystem built on a foundation of ethical AI princi
     <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/MarketPulse-Icon-new.png" alt="MarketPulse" height="90" style="margin: 8px"/>
   </a>
 </div>
----
 
 ### My Core Principles
 
 - **Z-Protocol v2.0:** A framework for consent, attribution, and transparency in AI interactions.
-- **VerifiMind-PEAS Methodology:** A validation-first approach to building secure and ethical AI applications.
+- **VerifiMind™ PEAS Methodology:** A validation-first approach to building secure and ethical AI applications.
 - **Defensive Publications:** A commitment to keeping innovation in the public domain and protecting it from patent trolling.
 
 ---
