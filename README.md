@@ -93,11 +93,11 @@ This is my commitment to open science and prior art. All core methodologies are 
 
 YSenseAI is a self-funded, open-source initiative built by a solo developer. If you find value in my work and believe in the mission of building ethical AI for everyone, please consider supporting the journey.
 
-<a href="https://www.paypal.com/donate/?business=alton%40ysenseai.org&no_recurring=0&item_name=Support+the+YSenseAI+open-source+ecosystem.+Thank+you%21&currency_code=MYR&amount=15">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Buy Me A Coffee" />
+<a href="https://paypal.me/creator35lwbweb/3USD">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-$3_USD-FFDD00?style=for-the-badge&logo=paypal&logoColor=blue" alt="Buy Me A Coffee" />
 </a>
 
-*(Note: The PayPal link is set to ~3 USD, which is ~15 MYR)*
+*A suggested $3 USD for supporters who are willing — every contribution fuels this open-source mission.*
 
 ---
 
