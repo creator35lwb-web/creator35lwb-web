@@ -1,7 +1,7 @@
 # GitHub Profile README for Alton Lee Wei Bin (creator35lwb-web)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/creator35lwb-web/VerifiMind-PEAS/main/docs/assets/branding/VerifiMind-PEAS-Icon%20(Square).png" alt="VerifiMind Logo" width="150"/>
+  <a href="https://github.com/creator35lwb-web/VerifiMind-PEAS"><img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/VerifiMind-PEAS.jpg" alt="VerifiMind-PEAS" height="120"/></a>
   <h1>
     <b>Alton Lee Wei Bin | 慧觉</b>
   </h1>
@@ -42,6 +42,24 @@ This is a cohesive, 10-repo ecosystem built on a foundation of ethical AI princi
 | **verifimind-mcp-server** | MCP Server for Multi-Model Validation | Self-Hosted |
 | **NaturalApp** | Meta-Application Platform for Android | Concept |
 
+
+---
+
+### Featured Projects
+
+<div align="center">
+  <a href="https://github.com/creator35lwb-web/VerifiMind-PEAS">
+    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/VerifiMind-PEAS.jpg" alt="VerifiMind-PEAS" height="90" style="margin: 8px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/creator35lwb-web/macp-research-assistant">
+    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/MACP-Research.jpg" alt="MACP Research Assistant" height="90" style="margin: 8px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/creator35lwb-web/MarketPulse">
+    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/MarketPulse-Icon-new.png" alt="MarketPulse" height="90" style="margin: 8px"/>
+  </a>
+</div>
 ---
 
 ### My Core Principles
@@ -73,6 +91,33 @@ This is my commitment to open science and prior art. All core methodologies are 
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,n8n,vscode&perline=5" />
   </a>
+</p>
+
+---
+
+### AI Agents & Applications
+
+**Development Agents** — the AI team behind every build:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Manus_AI-Agent_CTO-6E40C9?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Manus AI"/>
+  <img src="https://img.shields.io/badge/Claude_Code-Execution_Master-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Antigravity-AI_Agent-00B4D8?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Grok-xAI_Agent-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok Agent"/>
+</p>
+
+**AI Applications** — tools that power research, validation, and development:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+  <img src="https://img.shields.io/badge/NotebookLM-34A853?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
+  <img src="https://img.shields.io/badge/KIMI-1A73E8?style=for-the-badge&logo=moonshot&logoColor=white" alt="KIMI"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
+  <img src="https://img.shields.io/badge/QWEN-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" alt="QWEN"/>
 </p>
 
 ---
