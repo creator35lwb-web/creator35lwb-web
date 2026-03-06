@@ -1,9 +1,7 @@
 # GitHub Profile README for Alton Lee Wei Bin (creator35lwb-web)
 
 <div align="center">
-  <a href="https://github.com/creator35lwb-web/creator35lwb-web/releases/download/v1.0-assets/grok_video_2026_YSenseAI_Drop.mp4" title="Watch YSenseAI™ Brand Animation">
-    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/YSenseAI-Logo.jpg" alt="YSenseAI™" height="130"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/YSenseAI-Logo.gif" alt="YSenseAI™" height="150"/>
   <h1>
     <b>Alton Lee Wei Bin | YSenseAI™ | 慧觉™</b>
   </h1>
