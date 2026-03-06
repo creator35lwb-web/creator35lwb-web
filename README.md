@@ -80,9 +80,9 @@ This is my commitment to open science and prior art. All core methodologies are 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=creator35lwb-web&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=creator35lwb-web&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=creator35lwb-web&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=creator35lwb-web&layout=compact&theme=radical" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=creator35lwb-web&theme=radical" alt="GitHub Streak" />
 </div>
@@ -93,11 +93,14 @@ This is my commitment to open science and prior art. All core methodologies are 
 
 YSenseAI is a self-funded, open-source initiative built by a solo developer. If you find value in my work and believe in the mission of building ethical AI for everyone, please consider supporting the journey.
 
-<a href="https://www.paypal.com/donate/?business=alton%40ysenseai.org&no_recurring=0&item_name=Support+the+YSenseAI+open-source+ecosystem.+Thank+you%21&currency_code=MYR&amount=15">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Buy Me A Coffee" />
+<a href="https://paypal.me/creator35lwbweb?locale.x=en_US&country.x=MY">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_YSenseAI-FFDD00?style=for-the-badge&logo=paypal&logoColor=blue" alt="Buy Me A Coffee via PayPal" />
 </a>
 
-*(Note: The PayPal link is set to ~3 USD, which is ~15 MYR)*
+> Every tool in this ecosystem was built to solve a real problem — and every one of them is free.
+> If it helped you validate an AI concept, power a research pipeline, or simply sparked an idea,
+> a small coffee means the world to a solo builder who started this journey from agriculture, not computer science.
+> **Your support keeps the FLYWHEEL turning. Thank you. &#127775;**
 
 ---
 
