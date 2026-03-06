@@ -27,7 +27,7 @@ I am an observer and creator from Malaysia, currently on an unexpected journey f
 
 ---
 
-### The YSenseAI Ecosystem
+### The YSenseAI™ Ecosystem
 
 This is a cohesive, 10-repo ecosystem built on a foundation of ethical AI principles. Each project serves a specific purpose, from core validation to multi-agent communication.
 
@@ -137,7 +137,7 @@ This is my commitment to open science and prior art. All core methodologies are 
 
 ### Support My Journey
 
-YSenseAI is a self-funded, open-source initiative built by a solo developer. If you find value in my work and believe in the mission of building ethical AI for everyone, please consider supporting the journey.
+YSenseAI™ is a self-funded, open-source initiative built by a solo developer. If you find value in my work and believe in the mission of building ethical AI for everyone, please consider supporting the journey.
 
 <a href="https://paypal.me/creator35lwbweb?locale.x=en_US&country.x=MY">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_YSenseAI-FFDD00?style=for-the-badge&logo=paypal&logoColor=blue" alt="Buy Me A Coffee via PayPal" />
