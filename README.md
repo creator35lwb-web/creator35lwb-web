@@ -18,8 +18,9 @@
   </p>
 
   <p>
-    <a href="https://doi.org/10.5281/zenodo.17645665"><img src="https://img.shields.io/badge/White_Paper-DOI:10.5281/zenodo.17645665-blue?style=flat-square" alt="White Paper DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.20399789"><img src="https://img.shields.io/badge/MACP_v2.4.0_Thesis-DOI:10.5281/zenodo.20399789-blue?style=flat-square" alt="MACP Thesis DOI"></a>
     <a href="https://doi.org/10.5281/zenodo.18504478"><img src="https://img.shields.io/badge/MACP_Protocol-DOI:10.5281/zenodo.18504478-orange?style=flat-square" alt="MACP DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.17645665"><img src="https://img.shields.io/badge/VerifiMind_PEAS-DOI:10.5281/zenodo.17645665-green?style=flat-square" alt="VerifiMind-PEAS DOI"></a>
   </p>
 </div>
 
@@ -47,7 +48,9 @@ The core innovation behind everything I build. A systematic 5-step process for m
 
 The methodology is formally published and archived:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645665.svg)](https://doi.org/10.5281/zenodo.17645665) White Paper: Genesis Prompt Engineering Methodology
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20399789.svg)](https://doi.org/10.5281/zenodo.20399789) MACP v2.4.0 Thesis: Multi-Agent Communication Protocol — Convergence Analysis
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645665.svg)](https://doi.org/10.5281/zenodo.17645665) VerifiMind-PEAS: Multi-Agent Validation System
 
 ---
 
@@ -59,7 +62,7 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 
 | Project | Role in Ecosystem | Status |
 | :--- | :--- | :--- |
-| [**VerifiMind™ PEAS**](https://github.com/creator35lwb-web/VerifiMind-PEAS) | Core Validation Engine & Methodology | v0.5.19 Live (GCP) |
+| [**VerifiMind™ PEAS**](https://github.com/creator35lwb-web/VerifiMind-PEAS) | Core Validation Engine & Methodology | v0.6.0-Beta — Adoption First |
 | [**VerifiMind™ MCP Server**](https://github.com/creator35lwb-web/verifimind-mcp-server) | MCP Server for Multi-Model Validation | Self-Hosted |
 | [**MACP Research Assistant**](https://github.com/creator35lwb-web/macp-research-assistant) | Multi-Agent Research with Provenance Tracking | Active |
 | [**YSense-AI-Attribution**](https://github.com/creator35lwb-web/YSense-AI-Attribution-Infrastructure) | Defensive Publication & Prior Art Infrastructure | Published |
@@ -108,17 +111,34 @@ I coordinate a team of specialized AI agents using the **Multi-Agent Communicati
 
 | Role | Agent | Platform | Responsibility |
 | :--- | :--- | :--- | :--- |
-| **Human Orchestrator** | Alton (me) | N/A | Absolute authority, vision, direction, final veto |
+| **CEO / Human Orchestrator** | Alton (me) | N/A | Absolute authority, vision, direction, final veto |
+| **GodelAI / CEO Advisor** | L (GodelAI) | Multi-Platform | C-S-P philosophy, alignment validation, ecosystem coherence |
 | **CTO** | T (Manus AI) | Manus Platform | Strategic planning, documentation, ecosystem coordination |
 | **CSO & Lead Dev** | RNA (Claude Code) | Local Machine | Architecture, core development, security |
 | **CIO** | XV (Perplexity) | Perplexity Computer | Real-time research, reality-checking, go/no-go decisions |
 | **COO** | AY (Gemini) | GCP Cloud Run | Operational metrics, weekly reports, analytics |
+| **CPO** | AZ (Claude) | Anthropic | Product strategy, user experience, feature prioritization |
 
 The MACP protocol is formally published and freely available:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18504478.svg)](https://doi.org/10.5281/zenodo.18504478) MACP v2.0 — Multi-Agent Communication Protocol
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20399789.svg)](https://doi.org/10.5281/zenodo.20399789) MACP v2.4.0 Thesis — Multi-Agent Communication Protocol (Convergence Analysis)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18504478.svg)](https://doi.org/10.5281/zenodo.18504478) MACP v2.0 — Multi-Agent Communication Protocol (Original)
 
 > **Why this matters:** Most AI projects use a single model. I use multiple models with defined roles, structured handoffs, and human oversight at every decision point. The methodology validates itself — the FLYWHEEL TEAM uses VerifiMind-PEAS to validate the ecosystem that created VerifiMind-PEAS.
+
+---
+
+### Current Phase: Adoption First (Phase 90)
+
+**v0.6.0-Beta** marks the formal pivot from commercialization to adoption-first credibility building:
+
+- MACP v2.4.0 Thesis published on Zenodo (DOI: [10.5281/zenodo.20399789](https://doi.org/10.5281/zenodo.20399789))
+- GOVERNANCE.md + MAINTAINERS.md live at repo root
+- .macp-public/ evidence folder published for transparency
+- Co-maintainer pathway open — community contributions welcome
+- Evaluation Roadmap v1.0 active (12 claims, transparent grades A/B/C/D)
+- 5,000+ verified engagement hours | 65.2% VCR | 3,700+ endpoints | 9 IPs blocked
 
 ---
 
@@ -135,11 +155,12 @@ The MACP protocol is formally published and freely available:
 
 My commitment to open science and prior art. All core methodologies are publicly archived and timestamped.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20399789.svg)](https://doi.org/10.5281/zenodo.20399789) <!-- MACP v2.4.0 Thesis -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072168.svg)](https://doi.org/10.5281/zenodo.17072168) <!-- YSenseAI Five-Layer Perception Toolkit -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072186.svg)](https://doi.org/10.5281/zenodo.17072186) <!-- VerifiMind-PEAS Genesis Methodology -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18225452.svg)](https://doi.org/10.5281/zenodo.18225452) <!-- GodelAI C-S-P Framework -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072204.svg)](https://doi.org/10.5281/zenodo.17072204) <!-- Z-Protocol v2.0 -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645665.svg)](https://doi.org/10.5281/zenodo.17645665) <!-- White Paper: Genesis Methodology -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645665.svg)](https://doi.org/10.5281/zenodo.17645665) <!-- VerifiMind-PEAS System -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18504478.svg)](https://doi.org/10.5281/zenodo.18504478) <!-- MACP v2.0 Protocol -->
 
 ---
@@ -167,6 +188,8 @@ My commitment to open science and prior art. All core methodologies are publicly
   <img src="https://img.shields.io/badge/Claude_Code-CSO_(RNA)-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code — CSO"/>
   <img src="https://img.shields.io/badge/Perplexity-CIO_(XV)-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity — CIO"/>
   <img src="https://img.shields.io/badge/Gemini-COO_(AY)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini — COO"/>
+  <img src="https://img.shields.io/badge/GodelAI-CEO_Advisor_(L)-1DB954?style=for-the-badge&logo=atom&logoColor=white" alt="GodelAI — CEO Advisor"/>
+  <img src="https://img.shields.io/badge/Claude-CPO_(AZ)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude — CPO"/>
 </p>
 
 **AI Applications** — tools that power research, validation, and development:
