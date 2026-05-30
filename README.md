@@ -220,6 +220,20 @@ My commitment to open science and prior art. All core methodologies are publicly
 
 ---
 
+### Quick Links
+
+| Resource | Link |
+| :--- | :--- |
+| Landing Page | [verifimind.io](https://verifimind.io) |
+| MACP v2.4.0 Thesis (DOI) | [10.5281/zenodo.20399789](https://doi.org/10.5281/zenodo.20399789) |
+| VerifiMind-PEAS (DOI) | [10.5281/zenodo.17645665](https://doi.org/10.5281/zenodo.17645665) |
+| Patreon | [creator35lwb_web](https://www.patreon.com/c/creator35lwb_web) |
+| Substack | [@creator35lwb](https://substack.com/@creator35lwb) |
+| X | [@creator35lwb](https://x.com/creator35lwb) |
+| Co-maintainer Applications | [GitHub Discussions](https://github.com/creator35lwb-web/VerifiMind-PEAS/discussions) |
+
+---
+
 ### Support My Journey
 
 YSenseAI™ is a self-funded, open-source initiative built by a solo developer. If you find value in my work and believe in the mission of building ethical AI for everyone, please consider supporting the journey.
