@@ -67,6 +67,7 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 | [**VerifiMind™ MCP Server**](https://github.com/creator35lwb-web/verifimind-mcp-server) | MCP Server for Multi-Model Validation | Self-Hosted |
 | [**MACP Research Assistant**](https://github.com/creator35lwb-web/macp-research-assistant) | Multi-Agent Research with Provenance Tracking | Active |
 | [**YSense-AI-Attribution**](https://github.com/creator35lwb-web/YSense-AI-Attribution-Infrastructure) | Defensive Publication & Prior Art Infrastructure | Published |
+| [**GodelAI Website**](https://github.com/creator35lwb-web/godelai-website) | Official GodelAI C-S-P Framework Website | Live |
 
 #### Applied Projects
 
@@ -77,6 +78,7 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 | [**RoleNoteAI**](https://github.com/creator35lwb-web/RoleNoteAI) | Smart AI Note Planner (Kotlin/Android) | Active |
 | [**MarketPulse**](https://github.com/creator35lwb-web/MarketPulse) | Applied Case Study — Stock Sentiment Analysis | Active |
 | [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | CPO Price Tracker for Malaysian Oil Palm | Active |
+| [**NXS-Go**](https://github.com/creator35lwb-web/NXS-Go) | Abstract Strategy Game — Network Pressure & Isolation | v0.2 AI Arena |
 
 #### Architectural Theses
 
