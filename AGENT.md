@@ -1,6 +1,6 @@
 # AGENT.md — AI Agent Disclosure & FLYWHEEL TEAM Structure
 
-> **MACP Protocol:** v2.3.1 | **Genesis Platform:** v5.0 "Convergence" | **AI Council Protocol:** v2.0 "Attribution"
+> **MACP Protocol:** v2.4.1 | **Genesis:** v2.6.1 (§13.X canonical) | **AI Council Protocol:** v2.0 "Attribution"
 
 This document discloses how AI agents are used in the YSenseAI™ ecosystem. It exists because transparency is a core value — not an afterthought.
 
@@ -28,7 +28,8 @@ The YSenseAI™ ecosystem is built and maintained by a coordinated team of AI ag
 | CTO | **T** | Manus AI | Chief Technology Officer | Strategic planning, documentation, ecosystem coordination, AI Council orchestration |
 | CSO & Lead Developer | **RNA** | Claude Code (Local) | Chief Security Officer | Architecture, core development, implementation, security, 3-tier deployment |
 | CIO | **XV** | Perplexity Computer | Chief Intelligence Officer | Real-time research, reality-checking, strategic validation, go/no-go decisions |
-| COO | **AY** | Gemini / GCP Cloud Run | Chief Operating Officer | Operational metrics, weekly reports, behavioral analytics |
+| COO | **AY** | Cursor | Chief Operating Officer | Operational metrics, weekly reports, behavioral analytics |
+| CPO | **AZ** | Cursor | Chief Product Officer | Product strategy, user experience, feature prioritization |
 
 ### Internal Validation Agents (Within VerifiMind-PEAS)
 
@@ -77,13 +78,13 @@ XV provides independent strategic validation with persistent GitHub read/write a
 - Market validation for commercialization decisions
 - Independent reality-checks on team claims
 
-### Operations & Analytics (AY — Gemini/GCP)
+### Operations & Analytics (AY — Cursor)
 
 AY publishes weekly operational reports with verified metrics. AY tracks engagement, retention, and value confirmation across the ecosystem.
 
 **Examples of AY's work:**
 - Weekly operational reports
-- GCP analytics and behavioral proof
+- Analytics and behavioral proof
 - Verified Engagement Hours tracking
 - Value Confirmation Rate (VCR) measurement
 
@@ -139,6 +140,6 @@ This is not circular reasoning — it is a self-improving spiral. Each iteration
 
 This document will be updated as the team evolves. All changes are version-controlled and publicly auditable.
 
-**Last updated:** 2026-04-22
+**Last updated:** 2026-06-05
 **Updated by:** T (CTO, Manus AI) under Alton's direction
-**Protocol version:** MACP v2.3.1 | Genesis v5.0 "Convergence"
+**Protocol version:** MACP v2.4.1 | Genesis v2.6.1 (§13.X canonical)

@@ -13,7 +13,6 @@
     <a href="https://www.linkedin.com/in/altonlee92/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://ysenseai.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
     <a href="https://verifimind.io/"><img src="https://img.shields.io/badge/VerifiMind.io-4A90E2?style=for-the-badge&logo=world-wide-web&logoColor=white" alt="VerifiMind.io"></a>
-    <a href="https://huggingface.co/creator35lwb-web"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"></a>
     <a href="https://x.com/creator35lwb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
   </p>
 
@@ -29,6 +28,8 @@
 ### About Me
 
 I am an observer and creator from Malaysia, on an unexpected journey from agriculture and technical work to building open-source AI validation systems. My mission is to ensure AI systems are transparent, verifiable, and aligned with human values. I believe the most important question in AI is not "what can it do?" but "how do we know it's telling the truth?" — and I'm building the tools to answer that.
+
+VerifiMind-PEAS operates at the **epistemic verification + disclosure-credibility layer** — not as an agent coordination platform, but as the layer that answers "how do you know the AI isn't wrong?" This positioning drives every architectural and strategic decision in the ecosystem.
 
 I am the human orchestrator behind the YSenseAI™ ecosystem. Every project, every decision, every release goes through me. The AI agents I work with are powerful collaborators, but they operate under my direction and authority. This distinction matters — it's the foundation of the Genesis Methodology.
 
@@ -116,8 +117,8 @@ I coordinate a team of specialized AI agents using the **Multi-Agent Communicati
 | **CTO** | T (Manus AI) | Manus Platform | Strategic planning, documentation, ecosystem coordination |
 | **CSO & Lead Dev** | RNA (Claude Code) | Local Machine | Architecture, core development, security |
 | **CIO** | XV (Perplexity) | Perplexity Computer | Real-time research, reality-checking, go/no-go decisions |
-| **COO** | AY (Gemini) | GCP Cloud Run | Operational metrics, weekly reports, analytics |
-| **CPO** | AZ (Claude) | Anthropic | Product strategy, user experience, feature prioritization |
+| **COO** | AY | Cursor | Operational metrics, weekly reports, analytics |
+| **CPO** | AZ | Cursor | Product strategy, user experience, feature prioritization |
 
 The MACP protocol is formally published and freely available:
 
@@ -138,7 +139,7 @@ The MACP protocol is formally published and freely available:
 - .macp-public/ evidence folder published for transparency
 - Co-maintainer pathway open — community contributions welcome
 - Evaluation Roadmap v1.0 active (12 claims, transparent grades A/B/C/D)
-- 5,000+ verified engagement hours | 65.2% VCR | 3,700+ endpoints | 9 IPs blocked
+- Live metrics available on the [project Wiki](https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki)
 
 ---
 
@@ -156,10 +157,10 @@ The MACP protocol is formally published and freely available:
 My commitment to open science and prior art. All core methodologies are publicly archived and timestamped.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20399789.svg)](https://doi.org/10.5281/zenodo.20399789) <!-- MACP v2.4.0 Thesis -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072168.svg)](https://doi.org/10.5281/zenodo.17072168) <!-- YSenseAI Five-Layer Perception Toolkit -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072186.svg)](https://doi.org/10.5281/zenodo.17072186) <!-- VerifiMind-PEAS Genesis Methodology -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072168.svg)](https://doi.org/10.5281/zenodo.17072168) <!-- YSenseAI Attribution Infrastructure -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17769808.svg)](https://doi.org/10.5281/zenodo.17769808) <!-- YSenseAI White Paper v1.1 -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18225452.svg)](https://doi.org/10.5281/zenodo.18225452) <!-- GodelAI C-S-P Framework -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072204.svg)](https://doi.org/10.5281/zenodo.17072204) <!-- Z-Protocol v2.0 -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20479443.svg)](https://doi.org/10.5281/zenodo.20479443) <!-- VerifiMind-PEAS Multi-Model Framework -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645665.svg)](https://doi.org/10.5281/zenodo.17645665) <!-- VerifiMind-PEAS System -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18504478.svg)](https://doi.org/10.5281/zenodo.18504478) <!-- MACP v2.0 Protocol -->
 
@@ -187,9 +188,9 @@ My commitment to open science and prior art. All core methodologies are publicly
   <img src="https://img.shields.io/badge/Manus_AI-CTO_(T)-6E40C9?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Manus AI — CTO"/>
   <img src="https://img.shields.io/badge/Claude_Code-CSO_(RNA)-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code — CSO"/>
   <img src="https://img.shields.io/badge/Perplexity-CIO_(XV)-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity — CIO"/>
-  <img src="https://img.shields.io/badge/Gemini-COO_(AY)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini — COO"/>
+  <img src="https://img.shields.io/badge/Cursor-COO_(AY)-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor — COO"/>
   <img src="https://img.shields.io/badge/GodelAI-CEO_Advisor_(L)-1DB954?style=for-the-badge&logo=atom&logoColor=white" alt="GodelAI — CEO Advisor"/>
-  <img src="https://img.shields.io/badge/Claude-CPO_(AZ)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude — CPO"/>
+  <img src="https://img.shields.io/badge/Cursor-CPO_(AZ)-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor — CPO"/>
 </p>
 
 **AI Applications** — tools that power research, validation, and development:
