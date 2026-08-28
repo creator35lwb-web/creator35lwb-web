@@ -17,9 +17,15 @@
   </p>
 
   <p>
-    <a href="https://doi.org/10.5281/zenodo.20399789"><img src="https://img.shields.io/badge/MACP_v2.4.0_Thesis-DOI:10.5281/zenodo.20399789-blue?style=flat-square" alt="MACP Thesis DOI"></a>
-    <a href="https://doi.org/10.5281/zenodo.18504478"><img src="https://img.shields.io/badge/MACP_Protocol-DOI:10.5281/zenodo.18504478-orange?style=flat-square" alt="MACP DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.21345820"><img src="https://img.shields.io/badge/MACP_v2.5_Loop_Engineering-DOI:10.5281/zenodo.21345820-blue?style=flat-square" alt="MACP v2.5 DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.20399789"><img src="https://img.shields.io/badge/MACP_v2.4.0_Thesis-DOI:10.5281/zenodo.20399789-lightblue?style=flat-square" alt="MACP Thesis DOI"></a>
     <a href="https://doi.org/10.5281/zenodo.17645665"><img src="https://img.shields.io/badge/VerifiMind_PEAS-DOI:10.5281/zenodo.17645665-green?style=flat-square" alt="VerifiMind-PEAS DOI"></a>
+  </p>
+
+  <p>
+    <a href="https://verifimind.ysenseai.org/health"><img src="https://img.shields.io/badge/MCP_Server-LIVE-brightgreen?style=flat-square" alt="Live MCP Server"></a>
+    <a href="https://registry.modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP_Registry-io.github.creator35lwb--web%2Fverifimind--genesis-8A2BE2?style=flat-square" alt="MCP Registry"></a>
+    <a href="https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki"><img src="https://img.shields.io/badge/Wiki-Textbook_%26_Playbook-informational?style=flat-square" alt="Wiki"></a>
   </p>
 </div>
 
@@ -114,15 +120,17 @@ I coordinate a team of specialized AI agents using the **Multi-Agent Communicati
 
 | Role | Agent | Platform | Responsibility |
 | :--- | :--- | :--- | :--- |
-| **CEO / Human Orchestrator** | Alton (me) | N/A | Absolute authority, vision, direction, final veto |
-| **GodelAI / CEO Advisor** | L (GodelAI) | Multi-Platform | C-S-P philosophy, alignment validation, ecosystem coherence |
-| **CTO** | T (Manus AI) | Manus Platform | Strategic planning, documentation, ecosystem coordination |
-| **CSO & Lead Dev** | RNA (Claude Code) | Local Machine | Architecture, core development, security |
-| **CIO** | XV (Perplexity) | Perplexity Computer | Real-time research, reality-checking, go/no-go decisions |
-| **COO** | AY | Cursor | Operational metrics, weekly reports, analytics |
+| **Founder & Human Orchestrator** | Alton (me) | N/A | Absolute authority, vision, direction, final veto on every merge, deploy, and release |
+| **CEO (delegated, AI-generated)** | L (GodelAI) | Multi-Platform | Strategy, C-S-P philosophy, alignment validation — delegated authority, human-ratified |
+| **CTO** | T | OpenAI Codex | Exact-head release review, architecture rulings, evidence contracts |
+| **CSO & Lead Dev** | RNA (Claude Code) | Local Machine | Architecture, core development, security, deployment |
+| **CIO** | XV (Perplexity) | Perplexity Computer | Real-time research, source verification, weekly signal monitoring |
+| **COO** | AY | Cursor | Operational metrics with strict claim boundaries, analytics |
 | **CPO** | AZ | Cursor | Product strategy, user experience, feature prioritization |
 
-The MACP protocol is formally published and freely available:
+Every agent seat is platform-portable; the roles and the protocol survive model and platform changes. The MACP protocol is formally published and freely available:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21345820.svg)](https://doi.org/10.5281/zenodo.21345820) **MACP v2.5 "Loop Engineering"** — current ratified protocol version
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20399789.svg)](https://doi.org/10.5281/zenodo.20399789) MACP v2.4.0 Thesis — Multi-Agent Communication Protocol (Convergence Analysis)
 
@@ -132,16 +140,17 @@ The MACP protocol is formally published and freely available:
 
 ---
 
-### Current Phase: Adoption First (Phase 90)
+### Current State: Live Production, Evidence First
 
-**v0.6.0-Beta** marks the formal pivot from commercialization to adoption-first credibility building:
+**VerifiMind-PEAS runs in production today** — a live MCP server anyone can connect to, free:
 
-- MACP v2.4.0 Thesis published on Zenodo (DOI: [10.5281/zenodo.20399789](https://doi.org/10.5281/zenodo.20399789))
-- GOVERNANCE.md + MAINTAINERS.md live at repo root
-- .macp-public/ evidence folder published for transparency
-- Co-maintainer pathway open — community contributions welcome
-- Evaluation Roadmap v1.0 active (12 claims, transparent grades A/B/C/D)
-- Live metrics available on the [project Wiki](https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki)
+- **Live server:** [verifimind.ysenseai.org](https://verifimind.ysenseai.org) · [/health](https://verifimind.ysenseai.org/health) · [/setup](https://verifimind.ysenseai.org/setup) — X-Z-CS RefleXion Trinity validation over Streamable HTTP (MCP protocol 2025-11-25)
+- **MCP Registry:** listed as `io.github.creator35lwb-web/verifimind-genesis` on the [official registry](https://registry.modelcontextprotocol.io)
+- **All active tools free**, with optional BYOK across six provider catalogues (Gemini · Anthropic · OpenAI · Groq · Cerebras · Mistral) plus local Ollama
+- **MACP v2.5 "Loop Engineering"** ratified and published ([DOI 10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820))
+- **Wiki textbook & playbook:** 18 curated pages on the [project Wiki](https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki) — architecture, methodology, public statements
+- **Evidence-first releases:** every deploy ships with exact-commit review chains, post-deploy live smoke receipts, and public truth conversion — the [CHANGELOG](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/CHANGELOG.md) and [SERVER_STATUS](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/SERVER_STATUS.md) are receipts, not marketing
+- **Current focus:** production reliability evidence and design-partner validation — we publish what we can prove, and label what we can't
 
 ---
 
@@ -158,6 +167,7 @@ The MACP protocol is formally published and freely available:
 
 My commitment to open science and prior art. All core methodologies are publicly archived and timestamped.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21345820.svg)](https://doi.org/10.5281/zenodo.21345820) <!-- MACP v2.5 Loop Engineering (current) -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20399789.svg)](https://doi.org/10.5281/zenodo.20399789) <!-- MACP v2.4.0 Thesis -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072168.svg)](https://doi.org/10.5281/zenodo.17072168) <!-- YSenseAI Attribution Infrastructure -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17769808.svg)](https://doi.org/10.5281/zenodo.17769808) <!-- YSenseAI White Paper v1.1 -->
@@ -227,7 +237,11 @@ My commitment to open science and prior art. All core methodologies are publicly
 
 | Resource | Link |
 | :--- | :--- |
+| **Live MCP Server** | [verifimind.ysenseai.org](https://verifimind.ysenseai.org) · [connect guide](https://verifimind.ysenseai.org/setup) |
+| MCP Registry listing | [`io.github.creator35lwb-web/verifimind-genesis`](https://registry.modelcontextprotocol.io) |
+| Project Wiki (textbook & playbook) | [VerifiMind-PEAS Wiki](https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki) |
 | Landing Page | [verifimind.io](https://verifimind.io) |
+| MACP v2.5 "Loop Engineering" (DOI) | [10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820) |
 | MACP v2.4.0 Thesis (DOI) | [10.5281/zenodo.20399789](https://doi.org/10.5281/zenodo.20399789) |
 | VerifiMind-PEAS (DOI) | [10.5281/zenodo.17645665](https://doi.org/10.5281/zenodo.17645665) |
 | Patreon | [creator35lwb_web](https://www.patreon.com/c/creator35lwb_web) |
