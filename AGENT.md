@@ -1,6 +1,6 @@
 # AGENT.md — AI Agent Disclosure & FLYWHEEL TEAM Structure
 
-> **MACP Protocol:** v2.4.1 | **Genesis:** v2.6.1 (§13.X canonical) | **AI Council Protocol:** v2.0 "Attribution"
+> **MACP Protocol:** v2.5 "Loop Engineering" ([DOI 10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820))
 
 This document discloses how AI agents are used in the YSenseAI™ ecosystem. It exists because transparency is a core value — not an afterthought.
 
@@ -12,7 +12,7 @@ This document discloses how AI agents are used in the YSenseAI™ ecosystem. It 
 
 **AI agents** operate under Alton's direction. They are powerful collaborators with specialized capabilities, but they do not make final decisions. They propose, analyze, draft, and implement — Alton approves, vetoes, and directs.
 
-This distinction is formalized in the **MACP v2.2 "Identity"** protocol amendment, which requires all multi-agent systems to explicitly separate human orchestrators from AI-generated entities.
+This distinction was formalized in the **MACP v2.2 "Identity"** amendment and carries forward into the current **MACP v2.5 "Loop Engineering"**, which requires all multi-agent systems to explicitly separate human orchestrators from AI-generated entities.
 
 ---
 
@@ -24,23 +24,27 @@ The YSenseAI™ ecosystem is built and maintained by a coordinated team of AI ag
 
 | Role | Agent ID | Platform | Title | Scope |
 | :--- | :--- | :--- | :--- | :--- |
-| Human Orchestrator | **Alton** | N/A | Founder & Director | Absolute authority, vision, all final decisions |
-| CTO | **T** | Manus AI | Chief Technology Officer | Strategic planning, documentation, ecosystem coordination, AI Council orchestration |
-| CSO & Lead Developer | **RNA** | Claude Code (Local) | Chief Security Officer | Architecture, core development, implementation, security, 3-tier deployment |
-| CIO | **XV** | Perplexity Computer | Chief Intelligence Officer | Real-time research, reality-checking, strategic validation, go/no-go decisions |
-| COO | **AY** | Cursor | Chief Operating Officer | Operational metrics, weekly reports, behavioral analytics |
+| Human Orchestrator | **Alton** | N/A | Founder & Director | Absolute authority, vision, final veto on every merge, deploy, and release |
+| CEO (delegated, AI-generated) | **L** | GodelAI (multi-platform) | Chief Executive Officer | Strategy, C-S-P philosophy, alignment and methodology integrity — delegated authority, human-ratified |
+| CTO | **T** | OpenAI Codex (Manus AI legacy) | Chief Technology Officer | Exact-head release review, architecture rulings, evidence contracts, strategic phase gates |
+| CSO & Lead Developer | **RNA** | Claude Code | Chief Security Officer | Architecture, core development, implementation, security, deployment |
+| CIO | **XV** | Perplexity Computer | Chief Intelligence Officer | Real-time research, source verification, reality-checking, weekly signal monitoring |
+| COO | **AY** | Cursor | Chief Operating Officer | Operational metrics with strict claim boundaries, weekly reports, analytics |
 | CPO | **AZ** | Cursor | Chief Product Officer | Product strategy, user experience, feature prioritization |
+
+Every seat is platform-portable: the roles and the protocol survive model and platform changes.
 
 ### Internal Validation Agents (Within VerifiMind-PEAS)
 
 These agents operate within the VerifiMind-PEAS validation engine itself, implementing the Genesis Methodology's multi-model validation:
 
-| Agent | Role | Model | Function |
+| Agent | Role | Hosted model (v0.5.63) | Function |
 | :--- | :--- | :--- | :--- |
-| **Y** | Innovator | Gemini 2.5 Flash | Creative concepts, strategic insights, pattern recognition |
-| **X** | Analyst | Perplexity Sonar Pro | Critical analysis, fact-checking, competitive positioning |
-| **Z** | Guardian | Claude Sonnet 4 | Ethics, safety, Z-Protocol v1.1 compliance |
-| **CS** | Validator | Claude Sonnet 4 | Security validation, multi-stage verification |
+| **X** | Innovation Analyst | Gemini `gemini-3.5-flash-lite` | Innovation analysis, competitive positioning |
+| **Z** | Guardian | Groq `openai/gpt-oss-120b` | Ethics review with 21-framework jurisdictional coverage, Z-Protocol compliance |
+| **CS** | Security Validator | Groq `openai/gpt-oss-120b` | Security validation (OWASP Agentic AI Top 10) |
+
+`run_full_trinity` chains X → Z → CS. Users can bring their own key (BYOK) for any of six provider catalogues or local Ollama, so the hosted models above are defaults, not requirements. If any stage's response is incomplete, the result fails closed: the recommendation is capped and a human must review. See the live [SERVER_STATUS](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/SERVER_STATUS.md) for current routing.
 
 > **Important:** XV (CIO, permanent team member on Perplexity Computer) is NOT the same as X (Analyst within the MCP Server). XV conducts ecosystem-wide strategic intelligence; X conducts per-validation analytical assessment.
 
@@ -48,23 +52,23 @@ These agents operate within the VerifiMind-PEAS validation engine itself, implem
 
 ## How Agents Are Used
 
-### Documentation & Strategy (T — Manus AI)
+### Architecture Review & Strategy (T — OpenAI Codex)
 
-T handles all strategic planning, documentation updates, Genesis Master Prompt authoring, and ecosystem-wide coordination. T does NOT write production code — that responsibility belongs to RNA.
+T handles exact-head release review, architecture rulings, evidence contracts, strategic planning, and ecosystem-wide coordination. T moved from Manus AI to OpenAI Codex in July 2026, and that move was ratified by Alton. T does NOT write production code — that responsibility belongs to RNA.
 
 **Examples of T's work:**
-- GitHub README updates across all repositories
+- Exact-commit review of every release before it deploys
+- Architecture rulings and evidence contracts for public claims
 - MACP handoff records and session coordination
 - AI Council orchestration and report synthesis
-- The Genesis Method Handbook (authored as L under Alton's delegation)
 
 ### Code & Implementation (RNA — Claude Code)
 
-RNA handles all code-related tasks: architecture decisions, implementation, testing, security reviews, and deployment. RNA operates on Alton's local machine with direct access to the codebase.
+RNA handles all code-related tasks: architecture decisions, implementation, testing, security reviews, and deployment. Every deploy ships with an exact-commit receipt and a post-deploy live check.
 
 **Examples of RNA's work:**
 - VerifiMind-PEAS MCP Server implementation
-- 3-tier deployment architecture (GCP)
+- Production deployment on Google Cloud Run
 - Security hardening and code review
 - LegacyEvolve Protocol implementation
 
@@ -88,6 +92,15 @@ AY publishes weekly operational reports with verified metrics. AY tracks engagem
 - Verified Engagement Hours tracking
 - Value Confirmation Rate (VCR) measurement
 
+### Product & Experience (AZ — Cursor)
+
+AZ owns product strategy and the user's experience of each release, and decides which features are ready to be offered.
+
+**Examples of AZ's work:**
+- Feature scoping and prioritization
+- User-journey and onboarding review
+- Landing-page and product copy review
+
 ---
 
 ## Quorum & Decision Authority
@@ -109,7 +122,7 @@ Not all decisions are equal. The FLYWHEEL TEAM uses a formal quorum system:
 
 ## Communication Protocol
 
-All cross-agent communication follows the **Multi-Agent Communication Protocol (MACP)** — an open standard published on Zenodo (DOI: [10.5281/zenodo.18504478](https://doi.org/10.5281/zenodo.18504478)).
+All cross-agent communication follows the **Multi-Agent Communication Protocol (MACP)** — an open standard published on Zenodo. The current version is **MACP v2.5 "Loop Engineering"** (DOI: [10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820)); the original v2.0 is archived at DOI [10.5281/zenodo.18504478](https://doi.org/10.5281/zenodo.18504478).
 
 Key principles:
 - **Human-centric** — Alton always has final authority
@@ -140,6 +153,6 @@ This is not circular reasoning — it is a self-improving spiral. Each iteration
 
 This document will be updated as the team evolves. All changes are version-controlled and publicly auditable.
 
-**Last updated:** 2026-06-05
-**Updated by:** T (CTO, Manus AI) under Alton's direction
-**Protocol version:** MACP v2.4.1 | Genesis v2.6.1 (§13.X canonical)
+**Last updated:** 2026-09-24
+**Updated by:** RNA (CSO, Claude Code) under Alton's direction
+**Protocol version:** MACP v2.5 "Loop Engineering"

@@ -10,9 +10,9 @@
   </h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/altonlee92/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/altonlee92/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
     <a href="https://ysenseai.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
-    <a href="https://verifimind.io/"><img src="https://img.shields.io/badge/VerifiMind.io-4A90E2?style=for-the-badge&logo=world-wide-web&logoColor=white" alt="VerifiMind.io"></a>
+    <a href="https://verifimind.io/"><img src="https://img.shields.io/badge/VerifiMind.io-4A90E2?style=for-the-badge" alt="VerifiMind.io"></a>
     <a href="https://x.com/creator35lwb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
   </p>
 
@@ -23,7 +23,7 @@
   </p>
 
   <p>
-    <a href="https://verifimind.ysenseai.org/health"><img src="https://img.shields.io/badge/MCP_Server-LIVE-brightgreen?style=flat-square" alt="Live MCP Server"></a>
+    <a href="https://verifimind.ysenseai.org/health"><img src="https://img.shields.io/badge/MCP_Server-LIVE-brightgreen?style=flat-square&logo=modelcontextprotocol" alt="Live MCP Server"></a>
     <a href="https://registry.modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP_Registry-io.github.creator35lwb--web%2Fverifimind--genesis-8A2BE2?style=flat-square" alt="MCP Registry"></a>
     <a href="https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki"><img src="https://img.shields.io/badge/Wiki-Textbook_%26_Playbook-informational?style=flat-square" alt="Wiki"></a>
   </p>
@@ -147,7 +147,7 @@ Every agent seat is platform-portable; the roles and the protocol survive model 
 - **Live server:** [verifimind.ysenseai.org](https://verifimind.ysenseai.org) · [/health](https://verifimind.ysenseai.org/health) · [/setup](https://verifimind.ysenseai.org/setup) — X-Z-CS RefleXion Trinity validation over Streamable HTTP (MCP protocol 2025-11-25)
 - **MCP Registry:** listed as `io.github.creator35lwb-web/verifimind-genesis` on the [official registry](https://registry.modelcontextprotocol.io)
 - **Latest release: [v0.5.63 "Authentication Foundation"](https://github.com/creator35lwb-web/VerifiMind-PEAS/releases/tag/v0.5.63)** (September 2026) — a native OAuth 2.1 authorization layer shipped **dark** (off by default), so every anonymous tool stays anonymous; MCP Registry package `3.40.0`
-- **All tools free** — 13 defined, 8 active, 5 temporarily unavailable; account registration is paused during security maintenance. Optional BYOK across six provider catalogues (Gemini · Anthropic · OpenAI · Groq · Cerebras · Mistral) plus local Ollama
+- **All tools free** — 13 defined, 8 active, 5 temporarily unavailable; account registration is paused during security maintenance. From **October 20, 2026**, the four execution tools will need a free registered account (per the published [Terms](https://verifimind.ysenseai.org/terms)); the tools stay free. Optional BYOK across six provider catalogues (Gemini · Anthropic · OpenAI · Groq · Cerebras · Mistral) plus local Ollama
 - **Fail-closed by design:** when a hosted model response is incomplete, Trinity caps its recommendation and hands the decision back to a human — nothing is silently mocked
 - **Public evaluation dataset:** [verifimind-peas-eval](https://huggingface.co/datasets/YSenseAI/verifimind-peas-eval) — 100 labeled items across 5 domains ([DOI 10.5281/zenodo.21276884](https://doi.org/10.5281/zenodo.21276884))
 - **MACP v2.5 "Loop Engineering"** ratified and published ([DOI 10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820)) — the protocol my FLYWHEEL TEAM builds with every day
@@ -195,12 +195,20 @@ My commitment to open science and prior art. All core methodologies are publicly
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,kotlin,typescript,shell,sqlite&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,kotlin,typescript,bash,sqlite&perline=5" />
     <br>
-    <img src="https://skillicons.dev/icons?i=pytorch,langchain,openai,gcp,docker&perline=5" />
+    <img src="https://skillicons.dev/icons?i=pytorch,gcp,docker,git,github&perline=5" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,n8n,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=githubactions,vscode&perline=5" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
 ---
@@ -210,26 +218,26 @@ My commitment to open science and prior art. All core methodologies are publicly
 **The FLYWHEEL TEAM** — the AI agents behind every build:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI_Codex-CTO_(T)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex — CTO"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-CTO_(T)-412991?style=for-the-badge" alt="OpenAI Codex — CTO"/>
   <img src="https://img.shields.io/badge/Claude_Code-CSO_(RNA)-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code — CSO"/>
   <img src="https://img.shields.io/badge/Perplexity-CIO_(XV)-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity — CIO"/>
   <img src="https://img.shields.io/badge/Cursor-COO_(AY)-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor — COO"/>
-  <img src="https://img.shields.io/badge/GodelAI-CEO_Advisor_(L)-1DB954?style=for-the-badge&logo=atom&logoColor=white" alt="GodelAI — CEO Advisor"/>
+  <img src="https://img.shields.io/badge/GodelAI-CEO_(L)-1DB954?style=for-the-badge" alt="GodelAI — CEO (L)"/>
   <img src="https://img.shields.io/badge/Cursor-CPO_(AZ)-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor — CPO"/>
 </p>
 
 **AI Applications** — tools that power research, validation, and development:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
-  <img src="https://img.shields.io/badge/NotebookLM-34A853?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
-  <img src="https://img.shields.io/badge/KIMI-1A73E8?style=for-the-badge&logo=moonshot&logoColor=white" alt="KIMI"/>
+  <img src="https://img.shields.io/badge/NotebookLM-34A853?style=for-the-badge&logo=notebooklm&logoColor=white" alt="NotebookLM"/>
+  <img src="https://img.shields.io/badge/KIMI-1A73E8?style=for-the-badge&logo=kimi&logoColor=white" alt="KIMI"/>
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
-  <img src="https://img.shields.io/badge/QWEN-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" alt="QWEN"/>
+  <img src="https://img.shields.io/badge/QWEN-FF6A00?style=for-the-badge&logo=qwen&logoColor=white" alt="QWEN"/>
 </p>
 
 ---
@@ -241,7 +249,7 @@ My commitment to open science and prior art. All core methodologies are publicly
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=creator35lwb-web&layout=compact&theme=radical" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=creator35lwb-web&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=creator35lwb-web&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---

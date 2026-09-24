@@ -33,9 +33,9 @@ I am a solo builder. That means I do everything: architecture, strategy, documen
 
 On a typical day, I might:
 - Review a pull request from RNA (Claude Code) on the VerifiMind MCP Server
-- Direct T (Manus AI) to update documentation across the ecosystem
+- Ask T (OpenAI Codex) for an exact-head review before a release ships
 - Read XV's (Perplexity) latest strategic intelligence report
-- Check AY's (Gemini) weekly operational metrics
+- Check AY's (Cursor) weekly operational metrics
 - Write a Substack post explaining what we built and why
 - Answer community questions on GitHub Discussions
 
