@@ -71,7 +71,7 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 | :--- | :--- | :--- |
 | [**VerifiMind™ PEAS**](https://github.com/creator35lwb-web/VerifiMind-PEAS) | Core Validation Engine & Methodology | v0.6.0-Beta — Adoption First |
 | [**VerifiMind™ MCP Server**](https://github.com/creator35lwb-web/verifimind-mcp-server) | MCP Server for Multi-Model Validation | Self-Hosted |
-| [**MACP Research Assistant**](https://github.com/creator35lwb-web/macp-research-assistant) | Multi-Agent Research with Provenance Tracking | Active |
+| **MACP Research Assistant** | Multi-Agent Research with Provenance Tracking | Public showcase retired (2026-09-10, security) — private R&D continues |
 | [**YSense-AI-Attribution**](https://github.com/creator35lwb-web/YSense-AI-Attribution-Infrastructure) | Defensive Publication & Prior Art Infrastructure | Published |
 | [**GodelAI Website**](https://github.com/creator35lwb-web/godelai-website) | Official GodelAI C-S-P Framework Website | Live |
 
@@ -82,9 +82,9 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 | [**GodelAI**](https://github.com/creator35lwb-web/godelai) | C-S-P Framework for AI Alignment | v2.0.0 (Zenodo) |
 | [**GodelAI-Lite**](https://github.com/creator35lwb-web/godelai-lite) | Memory-Augmented Inference for SLMs | Active |
 | [**RoleNoteAI**](https://github.com/creator35lwb-web/RoleNoteAI) | Smart AI Note Planner (Kotlin/Android) | Active |
-| [**MarketPulse**](https://github.com/creator35lwb-web/MarketPulse) | Applied Case Study — Stock Sentiment Analysis | Active |
-| [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | CPO Price Tracker for Malaysian Oil Palm | Active |
-| [**NXS-Go**](https://github.com/creator35lwb-web/NXS-Go) | Abstract Strategy Game — Network Pressure & Isolation | v0.2 AI Arena |
+| [**MarketPulse**](https://github.com/creator35lwb-web/MarketPulse) | US & China Market Digest (n8n) — Source-Cited AI Commentary | Live on [Telegram](https://t.me/n8nMarketPulse) — active debugging |
+| [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | FFB/CPO Price Transparency for Malaysian Oil Palm Smallholders | [Live](https://creator35lwb-web.github.io/SawitSenseMY/) — v0.2.1, daily price data refresh |
+| [**NXS-Go**](https://github.com/creator35lwb-web/NXS-Go) | Abstract Strategy Game — Network Pressure & Isolation | v0.2 AI Arena — [playtesters welcome](https://github.com/creator35lwb-web/NXS-Go/blob/main/docs/HUMAN_PLAYTEST.md) |
 
 #### Architectural Theses
 
@@ -103,8 +103,8 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
     <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/VerifiMind-PEAS.jpg" alt="VerifiMind-PEAS" height="90" style="margin: 8px"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/creator35lwb-web/macp-research-assistant">
-    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/MACP-Research.jpg" alt="MACP Research Assistant" height="90" style="margin: 8px"/>
+  <a href="https://creator35lwb-web.github.io/SawitSenseMY/">
+    <img src="https://raw.githubusercontent.com/creator35lwb-web/SawitSenseMY/main/docs/logo.png" alt="SawitSense MY" height="90" style="margin: 8px"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/creator35lwb-web/MarketPulse">
@@ -152,6 +152,15 @@ Every agent seat is platform-portable; the roles and the protocol survive model 
 - **Evidence-first releases:** every deploy ships with exact-commit review chains, post-deploy live smoke receipts, and public truth conversion — the [CHANGELOG](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/CHANGELOG.md) and [SERVER_STATUS](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/SERVER_STATUS.md) are receipts, not marketing
 - **Current focus:** production reliability evidence and design-partner validation — we publish what we can prove, and label what we can't
 
+**Across the ecosystem** (status as of September 2026):
+
+| Project | Where it stands | How you can help |
+| :--- | :--- | :--- |
+| [**MarketPulse**](https://github.com/creator35lwb-web/MarketPulse) | Live daily US & China digests on [Telegram](https://t.me/n8nMarketPulse) and the [dashboard](https://creator35lwb-web.github.io/MarketPulse/); schema-v2 citation checks in place, still in active debugging | Follow the channel and [report issues](https://github.com/creator35lwb-web/MarketPulse/issues) |
+| [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | [Live web app](https://creator35lwb-web.github.io/SawitSenseMY/) — MPOB regional FFB prices refresh daily; no new features since v0.2.1 | Try the Fair Price Calculator and send feedback |
+| [**NXS-Go**](https://github.com/creator35lwb-web/NXS-Go) | v0.2 AI Arena experiments; open for human playtesting | Play a local best-of-3 and file a [playtest report](https://github.com/creator35lwb-web/NXS-Go/blob/main/docs/HUMAN_PLAYTEST.md) |
+| **MACP Research Assistant** | Public showcase retired on 2026-09-10 over security concerns; research and source kept private | — |
+
 ---
 
 ### My Core Principles
@@ -197,7 +206,7 @@ My commitment to open science and prior art. All core methodologies are publicly
 **The FLYWHEEL TEAM** — the AI agents behind every build:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Manus_AI-CTO_(T)-6E40C9?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Manus AI — CTO"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-CTO_(T)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex — CTO"/>
   <img src="https://img.shields.io/badge/Claude_Code-CSO_(RNA)-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code — CSO"/>
   <img src="https://img.shields.io/badge/Perplexity-CIO_(XV)-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity — CIO"/>
   <img src="https://img.shields.io/badge/Cursor-COO_(AY)-007ACC?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor — COO"/>
