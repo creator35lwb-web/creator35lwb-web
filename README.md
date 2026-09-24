@@ -245,9 +245,9 @@ My commitment to open science and prior art. All core methodologies are publicly
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=creator35lwb-web&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="assets/github-stats.svg" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=creator35lwb-web&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="assets/top-langs.svg" alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=creator35lwb-web&theme=radical" alt="GitHub Streak" />
 </div>

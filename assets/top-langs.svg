@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120" role="img" aria-label="Most Used Languages">
+  <title>Most Used Languages</title>
+  <rect x="0.5" y="0.5" rx="4.5" width="299" height="119" fill="#141321" stroke="#e4e2e2" stroke-opacity="0.2"/>
+  <text x="25" y="35" fill="#fe428e" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
+  <text x="25" y="75" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14">Stats refresh pending: generated daily by GitHub Actions.</text>
+  <text x="280" y="108" text-anchor="end" fill="#a9fef7" fill-opacity="0.55" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="10"></text>
+</svg>
