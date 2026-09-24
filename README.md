@@ -69,7 +69,7 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 
 | Project | Role in Ecosystem | Status |
 | :--- | :--- | :--- |
-| [**VerifiMind™ PEAS**](https://github.com/creator35lwb-web/VerifiMind-PEAS) | Core Validation Engine & Methodology | v0.6.0-Beta — Adoption First |
+| [**VerifiMind™ PEAS**](https://github.com/creator35lwb-web/VerifiMind-PEAS) | Core Validation Engine & Methodology | v0.5.63 Live — Authentication Foundation |
 | [**VerifiMind™ MCP Server**](https://github.com/creator35lwb-web/verifimind-mcp-server) | MCP Server for Multi-Model Validation | Self-Hosted |
 | **MACP Research Assistant** | Multi-Agent Research with Provenance Tracking | Public showcase retired (2026-09-10, security) — private R&D continues |
 | [**YSense-AI-Attribution**](https://github.com/creator35lwb-web/YSense-AI-Attribution-Infrastructure) | Defensive Publication & Prior Art Infrastructure | Published |
@@ -146,8 +146,11 @@ Every agent seat is platform-portable; the roles and the protocol survive model 
 
 - **Live server:** [verifimind.ysenseai.org](https://verifimind.ysenseai.org) · [/health](https://verifimind.ysenseai.org/health) · [/setup](https://verifimind.ysenseai.org/setup) — X-Z-CS RefleXion Trinity validation over Streamable HTTP (MCP protocol 2025-11-25)
 - **MCP Registry:** listed as `io.github.creator35lwb-web/verifimind-genesis` on the [official registry](https://registry.modelcontextprotocol.io)
-- **All active tools free**, with optional BYOK across six provider catalogues (Gemini · Anthropic · OpenAI · Groq · Cerebras · Mistral) plus local Ollama
-- **MACP v2.5 "Loop Engineering"** ratified and published ([DOI 10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820))
+- **Latest release: [v0.5.63 "Authentication Foundation"](https://github.com/creator35lwb-web/VerifiMind-PEAS/releases/tag/v0.5.63)** (September 2026) — a native OAuth 2.1 authorization layer shipped **dark** (off by default), so every anonymous tool stays anonymous; MCP Registry package `3.40.0`
+- **All tools free** — 13 defined, 8 active, 5 temporarily unavailable; account registration is paused during security maintenance. Optional BYOK across six provider catalogues (Gemini · Anthropic · OpenAI · Groq · Cerebras · Mistral) plus local Ollama
+- **Fail-closed by design:** when a hosted model response is incomplete, Trinity caps its recommendation and hands the decision back to a human — nothing is silently mocked
+- **Public evaluation dataset:** [verifimind-peas-eval](https://huggingface.co/datasets/YSenseAI/verifimind-peas-eval) — 100 labeled items across 5 domains ([DOI 10.5281/zenodo.21276884](https://doi.org/10.5281/zenodo.21276884))
+- **MACP v2.5 "Loop Engineering"** ratified and published ([DOI 10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820)) — the protocol my FLYWHEEL TEAM builds with every day
 - **Wiki textbook & playbook:** 18 curated pages on the [project Wiki](https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki) — architecture, methodology, public statements
 - **Evidence-first releases:** every deploy ships with exact-commit review chains, post-deploy live smoke receipts, and public truth conversion — the [CHANGELOG](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/CHANGELOG.md) and [SERVER_STATUS](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/SERVER_STATUS.md) are receipts, not marketing
 - **Current focus:** production reliability evidence and design-partner validation — we publish what we can prove, and label what we can't
@@ -182,6 +185,7 @@ My commitment to open science and prior art. All core methodologies are publicly
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17769808.svg)](https://doi.org/10.5281/zenodo.17769808) <!-- YSenseAI White Paper v1.1 -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18225452.svg)](https://doi.org/10.5281/zenodo.18225452) <!-- GodelAI C-S-P Framework -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20479443.svg)](https://doi.org/10.5281/zenodo.20479443) <!-- VerifiMind-PEAS Multi-Model Framework -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21276884.svg)](https://doi.org/10.5281/zenodo.21276884) <!-- VerifiMind-PEAS Evaluation Dataset (M2) -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645665.svg)](https://doi.org/10.5281/zenodo.17645665) <!-- VerifiMind-PEAS System -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18504478.svg)](https://doi.org/10.5281/zenodo.18504478) <!-- MACP v2.0 Protocol -->
 
@@ -253,6 +257,7 @@ My commitment to open science and prior art. All core methodologies are publicly
 | MACP v2.5 "Loop Engineering" (DOI) | [10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820) |
 | MACP v2.4.0 Thesis (DOI) | [10.5281/zenodo.20399789](https://doi.org/10.5281/zenodo.20399789) |
 | VerifiMind-PEAS (DOI) | [10.5281/zenodo.17645665](https://doi.org/10.5281/zenodo.17645665) |
+| Evaluation Dataset | [Hugging Face](https://huggingface.co/datasets/YSenseAI/verifimind-peas-eval) · [10.5281/zenodo.21276884](https://doi.org/10.5281/zenodo.21276884) |
 | Patreon | [creator35lwb_web](https://www.patreon.com/c/creator35lwb_web) |
 | Substack | [@creator35lwb](https://substack.com/@creator35lwb) |
 | X | [@creator35lwb](https://x.com/creator35lwb) |
