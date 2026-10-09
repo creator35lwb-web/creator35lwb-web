@@ -69,9 +69,9 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 
 | Project | Role in Ecosystem | Status |
 | :--- | :--- | :--- |
-| [**VerifiMind™ PEAS**](https://github.com/creator35lwb-web/VerifiMind-PEAS) | Core Validation Engine & Methodology | v0.5.63 Live — Authentication Foundation |
+| [**VerifiMind™ PEAS**](https://github.com/creator35lwb-web/VerifiMind-PEAS) | Core Validation Engine & Methodology | v0.5.64 Live — Protocol Currency |
 | [**VerifiMind™ MCP Server**](https://github.com/creator35lwb-web/verifimind-mcp-server) | MCP Server for Multi-Model Validation | Self-Hosted |
-| **MACP Research Assistant** | Multi-Agent Research with Provenance Tracking | Public showcase retired (2026-09-10, security) — private R&D continues |
+| **MACP Research Assistant** | Multi-Agent Research with Provenance Tracking | Public showcase retired (2026-09-10, security); repository archived |
 | [**YSense-AI-Attribution**](https://github.com/creator35lwb-web/YSense-AI-Attribution-Infrastructure) | Defensive Publication & Prior Art Infrastructure | Published |
 | [**GodelAI Website**](https://github.com/creator35lwb-web/godelai-website) | Official GodelAI C-S-P Framework Website | Live |
 
@@ -82,8 +82,8 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 | [**GodelAI**](https://github.com/creator35lwb-web/godelai) | C-S-P Framework for AI Alignment | v2.0.0 (Zenodo) |
 | [**GodelAI-Lite**](https://github.com/creator35lwb-web/godelai-lite) | Memory-Augmented Inference for SLMs | Active |
 | [**RoleNoteAI**](https://github.com/creator35lwb-web/RoleNoteAI) | Smart AI Note Planner (Kotlin/Android) | Active |
-| [**MarketPulse**](https://github.com/creator35lwb-web/MarketPulse) | US & China Market Digest (n8n) — Source-Cited AI Commentary | Live on [Telegram](https://t.me/n8nMarketPulse) — active debugging |
-| [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | FFB/CPO Price Transparency for Malaysian Oil Palm Smallholders | [Live](https://creator35lwb-web.github.io/SawitSenseMY/) — v0.2.1, daily price data refresh |
+| [**MoatPillar**](https://github.com/creator35lwb-web/MoatPillar) (formerly MarketPulse) | Daily US & China Market Brief for Value Investors (n8n) — Source-Cited AI Commentary | Public beta (Oct 2026) — live on [Telegram](https://t.me/MoatPillar) |
+| [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | FFB/CPO Price Transparency for Malaysian Oil Palm Smallholders | [Live](https://creator35lwb-web.github.io/SawitSenseMY/) — v0.3.14, EN · BM · 中文, prices checked every 2 hours |
 | [**NXS-Go**](https://github.com/creator35lwb-web/NXS-Go) | Abstract Strategy Game — Network Pressure & Isolation | v0.2 AI Arena — [playtesters welcome](https://github.com/creator35lwb-web/NXS-Go/blob/main/docs/HUMAN_PLAYTEST.md) |
 
 #### Architectural Theses
@@ -107,8 +107,8 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
     <img src="https://raw.githubusercontent.com/creator35lwb-web/SawitSenseMY/main/docs/logo.png" alt="SawitSense MY" height="90" style="margin: 8px"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/creator35lwb-web/MarketPulse">
-    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/MarketPulse-Icon-new.png" alt="MarketPulse" height="90" style="margin: 8px"/>
+  <a href="https://github.com/creator35lwb-web/MoatPillar">
+    <img src="https://raw.githubusercontent.com/creator35lwb-web/creator35lwb-web/master/assets/MoatPillar-Icon.png" alt="MoatPillar" height="90" style="margin: 8px"/>
   </a>
 </div>
 
@@ -146,7 +146,8 @@ Every agent seat is platform-portable; the roles and the protocol survive model 
 
 - **Live server:** [verifimind.ysenseai.org](https://verifimind.ysenseai.org) · [/health](https://verifimind.ysenseai.org/health) · [/setup](https://verifimind.ysenseai.org/setup) — X-Z-CS RefleXion Trinity validation over Streamable HTTP (MCP protocol 2025-11-25)
 - **MCP Registry:** listed as `io.github.creator35lwb-web/verifimind-genesis` on the [official registry](https://registry.modelcontextprotocol.io)
-- **Latest release: [v0.5.63 "Authentication Foundation"](https://github.com/creator35lwb-web/VerifiMind-PEAS/releases/tag/v0.5.63)** (September 2026) — a native OAuth 2.1 authorization layer shipped **dark** (off by default), so every anonymous tool stays anonymous; MCP Registry package `3.40.0`
+- **Latest release: [v0.5.64 "Protocol Currency"](https://github.com/creator35lwb-web/VerifiMind-PEAS/releases/tag/v0.5.64)** (September 2026) — framework batch to FastMCP 4 / MCP SDK 2 serving protocol era `2026-07-28`; post-deploy Trinity smoke completed with all three stages real; MCP Registry package `3.41.0`
+- **Authentication foundation (v0.5.63):** a native OAuth 2.1 authorization layer shipped **dark** (off by default), so every anonymous tool stays anonymous
 - **All tools free** — 13 defined, 8 active, 5 temporarily unavailable; account registration is paused during security maintenance. From **October 20, 2026**, the four execution tools will need a free registered account (per the published [Terms](https://verifimind.ysenseai.org/terms)); the tools stay free. Optional BYOK across six provider catalogues (Gemini · Anthropic · OpenAI · Groq · Cerebras · Mistral) plus local Ollama
 - **Fail-closed by design:** when a hosted model response is incomplete, Trinity caps its recommendation and hands the decision back to a human — nothing is silently mocked
 - **Public evaluation dataset:** [verifimind-peas-eval](https://huggingface.co/datasets/YSenseAI/verifimind-peas-eval) — 100 labeled items across 5 domains ([DOI 10.5281/zenodo.21276884](https://doi.org/10.5281/zenodo.21276884))
@@ -155,14 +156,14 @@ Every agent seat is platform-portable; the roles and the protocol survive model 
 - **Evidence-first releases:** every deploy ships with exact-commit review chains, post-deploy live smoke receipts, and public truth conversion — the [CHANGELOG](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/CHANGELOG.md) and [SERVER_STATUS](https://github.com/creator35lwb-web/VerifiMind-PEAS/blob/main/SERVER_STATUS.md) are receipts, not marketing
 - **Current focus:** production reliability evidence and design-partner validation — we publish what we can prove, and label what we can't
 
-**Across the ecosystem** (status as of September 2026):
+**Across the ecosystem** (status as of October 2026):
 
 | Project | Where it stands | How you can help |
 | :--- | :--- | :--- |
-| [**MarketPulse**](https://github.com/creator35lwb-web/MarketPulse) | Live daily US & China digests on [Telegram](https://t.me/n8nMarketPulse) and the [dashboard](https://creator35lwb-web.github.io/MarketPulse/); schema-v2 citation checks in place, still in active debugging | Follow the channel and [report issues](https://github.com/creator35lwb-web/MarketPulse/issues) |
-| [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | [Live web app](https://creator35lwb-web.github.io/SawitSenseMY/) — MPOB regional FFB prices refresh daily; no new features since v0.2.1 | Try the Fair Price Calculator and send feedback |
+| [**MoatPillar**](https://github.com/creator35lwb-web/MoatPillar) | Rebranded from MarketPulse and restarted as a public beta on 8 Oct 2026: fixed rules for the long-term reading, source-cited AI commentary for the short term. Daily US & China briefs on [Telegram](https://t.me/MoatPillar) and the [dashboard](https://creator35lwb-web.github.io/MoatPillar/); the public track record counts only calls graded under the beta rules | Follow the channel and [report issues](https://github.com/creator35lwb-web/MoatPillar/issues) |
+| [**SawitSenseMY**](https://github.com/creator35lwb-web/SawitSenseMY) | [Live web app](https://creator35lwb-web.github.io/SawitSenseMY/) at v0.3.14 — regional FFB prices (indicative since MPOB moved its reference price behind a login; method shown in-app), checked every 2 hours; English, Bahasa Malaysia and 简体中文; feedback form and Share button | Try the Fair Price Calculator, then use the in-app Feedback button or [Discussions](https://github.com/creator35lwb-web/SawitSenseMY/discussions) |
 | [**NXS-Go**](https://github.com/creator35lwb-web/NXS-Go) | v0.2 AI Arena experiments; open for human playtesting | Play a local best-of-3 and file a [playtest report](https://github.com/creator35lwb-web/NXS-Go/blob/main/docs/HUMAN_PLAYTEST.md) |
-| **MACP Research Assistant** | Public showcase retired on 2026-09-10 over security concerns; research and source kept private | — |
+| **MACP Research Assistant** | Public showcase retired on 2026-09-10 over security concerns; repository archived, research kept private | — |
 
 ---
 
