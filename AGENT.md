@@ -38,7 +38,7 @@ Every seat is platform-portable: the roles and the protocol survive model and pl
 
 These agents operate within the VerifiMind-PEAS validation engine itself, implementing the Genesis Methodology's multi-model validation:
 
-| Agent | Role | Hosted model (v0.5.63) | Function |
+| Agent | Role | Hosted model (v0.5.66) | Function |
 | :--- | :--- | :--- | :--- |
 | **X** | Innovation Analyst | Gemini `gemini-3.5-flash-lite` | Innovation analysis, competitive positioning |
 | **Z** | Guardian | Groq `openai/gpt-oss-120b` | Ethics review with 21-framework jurisdictional coverage, Z-Protocol compliance |
@@ -153,6 +153,6 @@ This is not circular reasoning — it is a self-improving spiral. Each iteration
 
 This document will be updated as the team evolves. All changes are version-controlled and publicly auditable.
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-10-18
 **Updated by:** RNA (CSO, Claude Code) under Alton's direction
 **Protocol version:** MACP v2.5 "Loop Engineering"
