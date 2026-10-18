@@ -293,6 +293,4 @@ YSenseAI™ is a self-funded, open-source initiative built by a solo developer. 
 
 <div align="center">
   <i>"From the soil to the cloud — building AI that remembers where it came from."</i>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=creator35lwb-web&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
