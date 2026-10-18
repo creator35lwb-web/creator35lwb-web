@@ -24,7 +24,7 @@
 
   <p>
     <a href="https://verifimind.ysenseai.org/health"><img src="https://img.shields.io/badge/MCP_Server-LIVE-brightgreen?style=flat-square&logo=modelcontextprotocol" alt="Live MCP Server"></a>
-    <a href="https://registry.modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP_Registry-io.github.creator35lwb--web%2Fverifimind--genesis-8A2BE2?style=flat-square" alt="MCP Registry"></a>
+    <a href="https://registry.modelcontextprotocol.io/?q=verifimind"><img src="https://img.shields.io/badge/MCP_Registry-io.github.creator35lwb--web%2Fverifimind--genesis-8A2BE2?style=flat-square" alt="MCP Registry"></a>
     <a href="https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki"><img src="https://img.shields.io/badge/Wiki-Textbook_%26_Playbook-informational?style=flat-square" alt="Wiki"></a>
   </p>
 </div>
@@ -145,7 +145,7 @@ Every agent seat is platform-portable; the roles and the protocol survive model 
 **VerifiMind-PEAS runs in production today** — a live MCP server anyone can connect to, free:
 
 - **Live server:** [verifimind.ysenseai.org](https://verifimind.ysenseai.org) · [/health](https://verifimind.ysenseai.org/health) · [/setup](https://verifimind.ysenseai.org/setup) — X-Z-CS RefleXion Trinity validation over Streamable HTTP (MCP protocol 2025-11-25)
-- **MCP Registry:** listed as `io.github.creator35lwb-web/verifimind-genesis` on the [official registry](https://registry.modelcontextprotocol.io)
+- **MCP Registry:** listed as `io.github.creator35lwb-web/verifimind-genesis` on the [official registry](https://registry.modelcontextprotocol.io/?q=verifimind) (latest package `3.43.0`)
 - **Latest release: [v0.5.66 "Runtime Currency"](https://github.com/creator35lwb-web/VerifiMind-PEAS/releases/tag/v0.5.66)** (18 October 2026) — five runtime pins (FastMCP, Starlette, FastAPI, uvicorn, cryptography) moved as one tested set; MCP protocol era `2026-07-28` unchanged; MCP Registry package `3.43.0`
 - **v0.5.65 "Registration Date Amendment"** (15 October 2026) — the announced 20 October registration date was withdrawn because the account layer is not yet live; Terms v2.6 and Privacy Policy v2.7 now promise at least 14 days' notice before any registration requirement
 - **Protocol currency (v0.5.64):** FastMCP 4 / MCP SDK 2, serving protocol era `2026-07-28`
@@ -262,7 +262,7 @@ My commitment to open science and prior art. All core methodologies are publicly
 | Resource | Link |
 | :--- | :--- |
 | **Live MCP Server** | [verifimind.ysenseai.org](https://verifimind.ysenseai.org) · [connect guide](https://verifimind.ysenseai.org/setup) |
-| MCP Registry listing | [`io.github.creator35lwb-web/verifimind-genesis`](https://registry.modelcontextprotocol.io) |
+| MCP Registry listing | [`io.github.creator35lwb-web/verifimind-genesis`](https://registry.modelcontextprotocol.io/?q=verifimind) |
 | Project Wiki (textbook & playbook) | [VerifiMind-PEAS Wiki](https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki) |
 | Landing Page | [verifimind.io](https://verifimind.io) |
 | MACP v2.5 "Loop Engineering" (DOI) | [10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820) |
