@@ -73,7 +73,7 @@ A cohesive open-source ecosystem built on ethical AI principles. Each project se
 | [**VerifiMind™ MCP Server**](https://github.com/creator35lwb-web/verifimind-mcp-server) | MCP Server for Multi-Model Validation | Self-Hosted |
 | **MACP Research Assistant** | Multi-Agent Research with Provenance Tracking | Public showcase retired (2026-09-10, security); repository archived |
 | [**YSense-AI-Attribution**](https://github.com/creator35lwb-web/YSense-AI-Attribution-Infrastructure) | Defensive Publication & Prior Art Infrastructure | Published |
-| [**GodelAI Website**](https://github.com/creator35lwb-web/godelai-website) | Official GodelAI C-S-P Framework Website | Live |
+| [**GodelAI Website**](https://godelai.ysenseai.org) | Official GodelAI C-S-P Framework Website | Live at [godelai.ysenseai.org](https://godelai.ysenseai.org) |
 
 #### Applied Projects
 
@@ -265,6 +265,7 @@ My commitment to open science and prior art. All core methodologies are publicly
 | MCP Registry listing | [`io.github.creator35lwb-web/verifimind-genesis`](https://registry.modelcontextprotocol.io/?q=verifimind) |
 | Project Wiki (textbook & playbook) | [VerifiMind-PEAS Wiki](https://github.com/creator35lwb-web/VerifiMind-PEAS/wiki) |
 | Landing Page | [verifimind.io](https://verifimind.io) |
+| GodelAI Website | [godelai.ysenseai.org](https://godelai.ysenseai.org) |
 | MACP v2.5 "Loop Engineering" (DOI) | [10.5281/zenodo.21345820](https://doi.org/10.5281/zenodo.21345820) |
 | MACP v2.4.0 Thesis (DOI) | [10.5281/zenodo.20399789](https://doi.org/10.5281/zenodo.20399789) |
 | VerifiMind-PEAS (DOI) | [10.5281/zenodo.17645665](https://doi.org/10.5281/zenodo.17645665) |
